@@ -17,7 +17,7 @@ The dataset consists of **284,807 credit card transactions**, where only **0.172
 
 2. **Data Preprocessing**
 
-   - Standardized features using `RobustScaler` to copmensate for the outliers.
+   - Standardized features using `RobustScaler` to compensate for the outliers.
    - Split data into training and testing sets using `train_test_split`.
    - Applied resampling techniques (SMOTE, ADASYN) to balance the dataset.
 
@@ -58,7 +58,7 @@ The dataset consists of **284,807 credit card transactions**, where only **0.172
   ```json
   {
     "bootstrap": true,
-    "max_depth": none,
+    "max_depth": None,
     "max_features": "sqrt",
     "min_samples_split": 6,
     "n_estimators": 330
