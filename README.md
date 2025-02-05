@@ -8,6 +8,8 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 The dataset consists of **284,807 credit card transactions**, where only **0.172%** of them are fraudulent. The severe class imbalance necessitated the use of resampling techniques to enhance fraud detection.
 
+To find the dataset used, look on [Kaggle](https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models/input).
+
 ## Methodology
 
 1. **Exploratory Data Analysis (EDA)**
